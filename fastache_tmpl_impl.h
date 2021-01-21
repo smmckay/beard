@@ -1,0 +1,8 @@
+#ifndef FASTACHE_FASTACHE_TMPL_IMPL_H
+#define FASTACHE_FASTACHE_TMPL_IMPL_H
+
+struct fastache_tmpl {
+
+};
+
+#endif //FASTACHE_FASTACHE_TMPL_IMPL_H
