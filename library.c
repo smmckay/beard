@@ -1,12 +1,9 @@
 #include "library.h"
 
+#include <errno.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-
-#ifndef NDEBUG
-#else
-#endif
 
 int fastache_compile_buf(const char *buf, unsigned int len, fastache_tmpl *out) {
 
